@@ -1,1 +1,8 @@
-<mxlibrary>[]</mxlibrary>
+<mxlibrary>[
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"\" style=\"group\" vertex=\"1\" connectable=\"0\" parent=\"1\"&gt;&lt;mxGeometry width=\"200\" height=\"65\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;mxCell id=\"3\" value=\"Descrição do Card\" style=\"rounded=1;whiteSpace=wrap;html=1;strokeColor=#757575;strokeWidth=3;shadow=1;align=left;spacingLeft=60;fontSize=12;\" vertex=\"1\" parent=\"2\"&gt;&lt;mxGeometry width=\"200\" height=\"65\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;mxCell id=\"4\" value=\"\" style=\"whiteSpace=wrap;html=1;aspect=fixed;rounded=0;strokeColor=none;strokeWidth=1;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#E5E5E5;\" vertex=\"1\" parent=\"2\"&gt;&lt;mxGeometry x=\"14\" y=\"12.5\" width=\"40\" height=\"40\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 200,
+    "h": 65,
+    "aspect": "fixed"
+  }
+]</mxlibrary>
