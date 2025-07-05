@@ -1,1 +1,30 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:lucid="lucid" width="100" height="100"><g lucid:page-tab-id="0_0" stroke="#000" stroke-opacity="0"><path d="M74.7 74.7H25.4V25.4h49.3z" fill="#7526e3"/><path d="M78.7 21.4l.7 1.65v54l-.7 1.65-1.65.7h-54l-1.65-.7-.7-1.65v-54l.7-1.65 1.65-.7h54z" fill="#401075"/><path d="M74.7 74.7H25.4V25.4h49.3z" fill="#7526e3"/><path d="M43.7 64.3L37.3 70V58.6zm-.72-18l5.28-1.4 5.4-.56 3.66.56 3.12 2 1.82 2.75.64 3.23V70h-5.73V53l-.67-2-2.84-.95-8.32 1.48L41.32 53l-4.02 1.8V30.1h5.68zm18.54-11.2l-2.9 4.26h-5.68L55.66 35l1.56-4.9h5.68z" fill="#fff"/></g></svg>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Camada_1" xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:lucid="lucid" viewBox="0 0 59.7 59.7">
+  <!-- Generator: Adobe Illustrator 29.5.0, SVG Export Plug-In . SVG Version: 2.1.0 Build 137)  -->
+  <defs>
+    <style>
+      .st0 {
+        fill: #7526e3;
+      }
+
+      .st0, .st1, .st2 {
+        stroke: #000;
+        stroke-opacity: 0;
+      }
+
+      .st1 {
+        fill: #fff;
+      }
+
+      .st2 {
+        fill: #401075;
+      }
+    </style>
+  </defs>
+  <g lucid:page-tab-id="0_0">
+    <path class="st0" d="M54.5,54.5H5.2V5.2h49.3v49.3Z"/>
+    <path class="st2" d="M58.5,1.2l.7,1.65v54l-.7,1.65-1.65.7H2.85l-1.65-.7-.7-1.65V2.85l.7-1.65,1.65-.7h54l1.65.7Z"/>
+    <path class="st0" d="M54.5,54.5H5.2V5.2h49.3v49.3Z"/>
+    <path class="st1" d="M23.5,44.1l-6.4,5.7v-11.4l6.4,5.7ZM22.78,26.1l5.28-1.4,5.4-.56,3.66.56,3.12,2,1.82,2.75.64,3.23v17.12h-5.73v-17l-.67-2-2.84-.95-8.32,1.48-4.02,1.47-4.02,1.8V9.9h5.68v16.2ZM41.32,14.9l-2.9,4.26h-5.68l2.72-4.36,1.56-4.9h5.68l-1.38,5Z"/>
+  </g>
+</svg>
